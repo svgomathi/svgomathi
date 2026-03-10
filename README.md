@@ -27,3 +27,9 @@ At Capgemini, I developed automation bots using Python and PowerShell for Linux 
 - 💬 Large Language Models (LLMs) & RAG
 
 🌱 I enjoy working at the intersection of AI, networking, and cloud systems, building intelligent, scalable infrastructures for next-generation digital platforms. I am always excited to collaborate on innovative AI-driven and network-aware technologies that push the boundaries of modern computing.
+
+• 🧠 AI Projects & Research Links
+
+- https://github.com/svgomathi/ROS2
+- https://github.com/svgomathi/Reconfiguration_Engine
+- https://github.com/svgomathi/LLM_RAG/tree/main
